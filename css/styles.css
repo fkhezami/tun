@@ -1715,7 +1715,7 @@ input[type='checkbox'] {
 /*     17. Footer     */
 /**********************/
 .footer {
-	padding-top: 5rem;
+	padding-top: 2rem;
 	background-color: #113448;
 }
 
@@ -1730,8 +1730,8 @@ input[type='checkbox'] {
 
 .footer p,
 .footer ul {
-	font-size: 0.875rem;
-	line-height: 1.375rem;
+	font-size: 0.7rem;
+    line-height: 0.8rem;
 }
 
 
